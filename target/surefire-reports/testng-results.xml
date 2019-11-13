@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-12T23:39:16 BRST" name="RestAssuredTest" finished-at="2019-11-12T23:39:20 BRST" duration-ms="4251">
+    <groups>
+    </groups>
+    <test started-at="2019-11-12T23:39:16 BRST" name="Command line test" finished-at="2019-11-12T23:39:20 BRST" duration-ms="4251">
+      <class name="RestAssuredTest">
+        <test-method signature="getPageOne()[pri:0, instance:RestAssuredTest@480bdb19]" started-at="2019-11-12T23:39:16 BRST" name="getPageOne" finished-at="2019-11-12T23:39:20 BRST" duration-ms="3934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageOne -->
+        <test-method signature="getUser()[pri:0, instance:RestAssuredTest@480bdb19]" started-at="2019-11-12T23:39:20 BRST" name="getUser" finished-at="2019-11-12T23:39:20 BRST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- RestAssuredTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- RestAssuredTest -->
+</testng-results>
